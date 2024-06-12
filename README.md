@@ -1,3 +1,5 @@
+I am completely new to Github. Nothing in github seems to be intuitive.
+
 The goal of the script is to extract the contractor data from the publicly provided pdf the user can download at the following site:
 https://www.tn.gov/content/dam/tn/tdot/construction/prequal.pdf
 
